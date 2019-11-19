@@ -3,7 +3,7 @@ header('Access-Control-Allow-Origin: *');
 
 
 
-a7886252_yserq
+sql2312660
 $host="sql2.freesqldatabase.com"; // Host name 
 $username="sql2312660"; // Mysql username 
 $password="wK6%iG7!"; // Mysql password 
