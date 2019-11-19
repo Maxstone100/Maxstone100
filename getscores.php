@@ -1,6 +1,4 @@
-header('Access-Control-Allow-Origin: *');
-
-
+<?php
 
 sql2312660
 $host="sql2.freesqldatabase.com"; // Host name 
